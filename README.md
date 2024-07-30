@@ -1,4 +1,4 @@
-# AI Job Searcher
+# AI Job Search Assistant
 
 ![image](https://github.com/user-attachments/assets/da857f4f-f4b1-4191-b6e6-4e2fdc072013)
 
