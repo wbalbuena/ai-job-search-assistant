@@ -1,5 +1,8 @@
 # AI Job Searcher
 
+![image](https://github.com/user-attachments/assets/da857f4f-f4b1-4191-b6e6-4e2fdc072013)
+
+
 ## Description
 A quick Python tool I put together to assist with job searching utilizing Google Gemini.
 
