@@ -41,3 +41,5 @@ It outputs a text file with:
 ## Planned Features
 - Integration with job application website APIs
 - Improve UI/UX
+- Adjust prompts
+- Include outputted text in the GUI instead of needing to open the text file
